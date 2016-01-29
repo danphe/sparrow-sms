@@ -3,21 +3,21 @@
 
  *Note: The module is work in progress, and is still in alpha. Use accordingly.*
 
-#Resources:
+##Resources:
 [SparrowSMS's official API](http://docs.sparrowsms.com/en/latest/)
 
-#Available Functions:
+##Available Functions:
 
 
-##1. sparrowSMS.setAuth({token, identity});
+###1. sparrowSMS.setAuth({token, identity});
 >
 >* The token and identity is unique to a SparrowSMS account.
 >* This is to be obtained from  SparrowSMS site at http://beta.sparrowsms.com/login/
 
-##2. sparrowSMS.sendSMS({text, recipients});
+###2. sparrowSMS.sendSMS({text, recipients});
 >
 >*  {String} text       - 160 character at max
 >*  {String} recipients - Command separated numbers
 
 
-##3. sparrowSMS.getCredit();
+###3. sparrowSMS.getCredit();
