@@ -4,7 +4,7 @@
  Note: The module is work in progress, and is still in alpha. Use accordingly.
 
 #Resources:
-   	-SparrowSMS's official API (http://docs.sparrowsms.com/en/latest/)
+SparrowSMS's official API (http://docs.sparrowsms.com/en/latest/)
 
 #Available Functions:
 
