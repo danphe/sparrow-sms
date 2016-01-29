@@ -10,9 +10,10 @@
 
 
 1. sparrowSMS.setAuth({token, identity});
-* The token and identity is unique to a SparrowSMS account.
-* This is to be obtained from  SparrowSMS site at
-* 	http://beta.sparrowsms.com/login/
+>
+>* The token and identity is unique to a SparrowSMS account.
+>* This is to be obtained from  SparrowSMS site at
+>* 	http://beta.sparrowsms.com/login/
 
 2. sparrowSMS.sendSMS({text, recipients});
 *  {String} text       - 160 character at max
