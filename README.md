@@ -21,3 +21,6 @@
 
 
 ###3. getCredit();
+
+##Usage:
+  See example.js.
