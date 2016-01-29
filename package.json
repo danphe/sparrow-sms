@@ -1,6 +1,6 @@
 {
   "name": "sparrow-sms",
-  "version": "16.01.29.00",
+  "version": "1.0.1",
   "description": "Module to easily access sparrowSMS's APIs via JavaScript.",
   "main": "index.js",
   "scripts": {
