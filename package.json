@@ -1,0 +1,23 @@
+{
+  "name": "sparrow-sms",
+  "version": "16.01.29.00",
+  "description": "Module to easily access sparrowSMS's APIs via JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sparrowSMS",
+    "sparrow",
+    "SMS",
+    "NodeJS",
+    "Nepal"
+  ],
+  "author": "Saroj Khatiwada <sarojk@danpheit.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.11.1",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {}
+}
