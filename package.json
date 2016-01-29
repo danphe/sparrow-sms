@@ -1,14 +1,14 @@
 {
   "name": "sparrow-sms",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Module to easily access sparrowSMS's APIs via JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/danphe/sparrow-sms"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danphe/sparrow-sms"
   },
   "keywords": [
     "sparrowSMS",
@@ -18,9 +18,9 @@
     "Nepal"
   ],
   "author": {
-    "name" : "Saroj Khatiwada",
-    "email" : "sarojk@danpheit.com",
-    "url" : "http://www.github.com/sarojkh"
+    "name": "Saroj Khatiwada",
+    "email": "sarojk@danpheit.com",
+    "url": "http://www.github.com/sarojkh"
   },
   "license": "ISC",
   "dependencies": {
