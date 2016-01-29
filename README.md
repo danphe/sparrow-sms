@@ -17,12 +17,14 @@ Available Functions:
 * This is to be obtained from  SparrowSMS site at
 * 	http://beta.sparrowsms.com/login/
 */
+
 sparrowSMS.setAuth({token, identity});
 
 /**
 *  {String} text       - 160 character at max
 *  {String} recipients - Command separated numbers
 */
+
 sparrowSMS.sendSMS({text, recipients});
 
 
