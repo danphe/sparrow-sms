@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/danphe/sparrow-sms"
+  },
   "keywords": [
     "sparrowSMS",
     "sparrow",
@@ -13,7 +17,11 @@
     "NodeJS",
     "Nepal"
   ],
-  "author": "Saroj Khatiwada <sarojk@danpheit.com>",
+  "author": {
+    "name" : "Saroj Khatiwada",
+    "email" : "sarojk@danpheit.com",
+    "url" : "http://www.github.com/sarojkh"
+  },
   "license": "ISC",
   "dependencies": {
     "moment": "^2.11.1",
