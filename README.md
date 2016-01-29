@@ -9,15 +9,15 @@
 #Available Functions:
 
 
-1. sparrowSMS.setAuth({token, identity});
+##1. sparrowSMS.setAuth({token, identity});
 >
 >* The token and identity is unique to a SparrowSMS account.
->* This is to be obtained from  SparrowSMS site at
->* 	http://beta.sparrowsms.com/login/
+>* This is to be obtained from  SparrowSMS site at http://beta.sparrowsms.com/login/
 
-2. sparrowSMS.sendSMS({text, recipients});
-*  {String} text       - 160 character at max
-*  {String} recipients - Command separated numbers
+##2. sparrowSMS.sendSMS({text, recipients});
+>
+>*  {String} text       - 160 character at max
+>*  {String} recipients - Command separated numbers
 
 
-3. sparrowSMS.getCredit();
+##3. sparrowSMS.getCredit();
