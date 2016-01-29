@@ -1,10 +1,10 @@
 #sparrow-sms
  Node module to easily access sparrowSMS's APIs via JavaScript.
 
- Note: The module is work in progress, and is still in alpha. Use accordingly.
+ *Note: The module is work in progress, and is still in alpha. Use accordingly.*
 
 #Resources:
-SparrowSMS's official API(http://docs.sparrowsms.com/en/latest/)
+[SparrowSMS's official API](http://docs.sparrowsms.com/en/latest/)
 
 #Available Functions:
 
