@@ -17,7 +17,7 @@
 ###2. sendSMS({text, recipients});
 >
 >*  {String} text       - 160 character at max
->*  {String} recipients - Command separated numbers
+>*  {String} recipients - Comma separated numbers
 
 
 ###3. getCredit();
